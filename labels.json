@@ -1,8 +1,9 @@
 {
-  "1": { "name": "dog", "correct": "true" },
-  "2": { "name": "bat", "correct": "true" },
-  "3": { "name": "tomato", "correct": "false" },
-  "4": { "name": "tree", "correct": "true" },
-  "5": { "name": "house", "correct": "true" },
-  "6": { "name": "phone", "correct": "true" }
+  "0": {"label": "bug", "correct": "true"}, 
+  "1": { "label": "dog", "correct": "true" },
+  "2": { "label": "bat", "correct": "true" },
+  "3": { "label": "tomato", "correct": "false" },
+  "4": { "label": "tree", "correct": "true" },
+  "5": { "label": "house", "correct": "true" },
+  "6": { "label": "phone", "correct": "true" }
 }
