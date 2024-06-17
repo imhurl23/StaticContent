@@ -1,0 +1,8 @@
+{
+  "1": { "name": "dog", "correct": "true" },
+  "2": { "name": "bat", "correct": "true" },
+  "3": { "name": "tomato", "correct": "false" },
+  "4": { "name": "tree", "correct": "true" },
+  "5": { "name": "house", "correct": "true" },
+  "6": { "name": "phone", "correct": "true" }
+}
