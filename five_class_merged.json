@@ -399,31 +399,6 @@
             }
         }
     },
-    "0_000_00_127.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 0
-            },
-            "2": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 9
-            }
-        }
-    },
     "DSC_0283_221ef4db-1b57-42a8-9117-b8bab526e816.jpg": {
         "top_labels": {
             "0": {
@@ -724,31 +699,6 @@
             }
         }
     },
-    "DSC_1249_773d2d63-93ca-4d71-b424-2efc919ecb61.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 1,
-                "LIME_n": 9
-            },
-            "1": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.043768954369388754,
-                "psLIME_n": 6,
-                "LIME_n": 10
-            },
-            "2": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 10
-            }
-        }
-    },
     "DSC_1039_850100a5-b3b8-439e-8762-4d32ff069466.jpg": {
         "top_labels": {
             "0": {
@@ -821,56 +771,6 @@
                 "iou": 0.08901515151515152,
                 "psLIME_n": 4,
                 "LIME_n": 9
-            }
-        }
-    },
-    "DSC_0234_5a3583a7-7b38-4ce6-9bfb-368831b94a69.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 0
-            },
-            "2": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 3,
-                "LIME_n": 3
-            }
-        }
-    },
-    "DSC_1695_e06e10cc-ab64-43cd-b344-6c8cd714b1ba.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.10464019878642661,
-                "psLIME_n": 8,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 2,
-                "LIME_n": 10
-            },
-            "2": {
-                "label": "roads_damage",
-                "correct": false,
-                "iou": 0.3102119015742579,
-                "psLIME_n": 4,
-                "LIME_n": 10
             }
         }
     },
@@ -1274,31 +1174,6 @@
             }
         }
     },
-    "1_000_01_121.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.06659480842741577,
-                "psLIME_n": 2,
-                "LIME_n": 10
-            },
-            "2": {
-                "label": "roads_damage",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 1,
-                "LIME_n": 10
-            }
-        }
-    },
     "0_000_00_009.jpg": {
         "top_labels": {
             "0": {
@@ -1421,31 +1296,6 @@
                 "iou": 0.0,
                 "psLIME_n": 5,
                 "LIME_n": 0
-            }
-        }
-    },
-    "DSC_0363_88bb962c-3a49-496d-bdd8-dc1ecae07ba2.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 0
-            },
-            "1": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.32352420045477365,
-                "psLIME_n": 5,
-                "LIME_n": 7
-            },
-            "2": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.07781450280140272,
-                "psLIME_n": 2,
-                "LIME_n": 8
             }
         }
     },

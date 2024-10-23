@@ -174,31 +174,6 @@
             }
         }
     },
-    "0_000_00_127.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.14816168790474202,
-                "psLIME_n": 8,
-                "LIME_n": 7
-            },
-            "1": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 5,
-                "LIME_n": 8
-            },
-            "2": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 1
-            }
-        }
-    },
     "DSC_0283_221ef4db-1b57-42a8-9117-b8bab526e816.jpg": {
         "top_labels": {
             "0": {
@@ -599,31 +574,6 @@
             }
         }
     },
-    "1_000_01_121.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.08176708461558026,
-                "psLIME_n": 2,
-                "LIME_n": 9
-            },
-            "1": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.33509137474497547,
-                "psLIME_n": 7,
-                "LIME_n": 1
-            },
-            "2": {
-                "label": "bridges_any",
-                "correct": false,
-                "iou": 0.20174499518252864,
-                "psLIME_n": 3,
-                "LIME_n": 4
-            }
-        }
-    },
     "0_000_00_009.jpg": {
         "top_labels": {
             "0": {
@@ -671,56 +621,6 @@
                 "iou": 0.0,
                 "psLIME_n": 2,
                 "LIME_n": 4
-            }
-        }
-    },
-    "DSC_0234_5a3583a7-7b38-4ce6-9bfb-368831b94a69.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.2828089235453241,
-                "psLIME_n": 4,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "bridges_any",
-                "correct": false,
-                "iou": 0.22607620850151605,
-                "psLIME_n": 4,
-                "LIME_n": 6
-            },
-            "2": {
-                "label": "trees_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 1
-            }
-        }
-    },
-    "DSC_1695_e06e10cc-ab64-43cd-b344-6c8cd714b1ba.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.45207396171147607,
-                "psLIME_n": 6,
-                "LIME_n": 10
-            },
-            "2": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 1,
-                "LIME_n": 8
             }
         }
     },
@@ -871,31 +771,6 @@
                 "iou": 0.14428673835125447,
                 "psLIME_n": 1,
                 "LIME_n": 10
-            }
-        }
-    },
-    "DSC_1249_773d2d63-93ca-4d71-b424-2efc919ecb61.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "roads_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 4
-            },
-            "1": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 3
-            },
-            "2": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 2,
-                "LIME_n": 5
             }
         }
     },
@@ -1121,31 +996,6 @@
                 "iou": 0.0,
                 "psLIME_n": 2,
                 "LIME_n": 10
-            }
-        }
-    },
-    "DSC_0363_88bb962c-3a49-496d-bdd8-dc1ecae07ba2.jpg": {
-        "top_labels": {
-            "0": {
-                "label": "flooding_any",
-                "correct": false,
-                "iou": 0.20296233412269335,
-                "psLIME_n": 6,
-                "LIME_n": 10
-            },
-            "1": {
-                "label": "buildings_any",
-                "correct": false,
-                "iou": 0.0,
-                "psLIME_n": 0,
-                "LIME_n": 6
-            },
-            "2": {
-                "label": "bridges_any",
-                "correct": false,
-                "iou": 0.12275676974843774,
-                "psLIME_n": 1,
-                "LIME_n": 8
             }
         }
     },
