@@ -74,6 +74,156 @@
             }
         }
     },
+    "DSC_5272_aee20939-a178-40d1-ae2f-c45f685ea83b.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 9
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.4411638523733568,
+                "psLIME_n": 9,
+                "LIME_n": 7
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.2541726618705036,
+                "psLIME_n": 4,
+                "LIME_n": 8
+            }
+        }
+    },
+    "DSC_4325_32109b33-c281-4203-8a5e-c9284f4d3e1a.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.030657542588823538,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": true,
+                "iou": 0.19072132881271578,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.27122054792349987,
+                "psLIME_n": 6,
+                "LIME_n": 10
+            }
+        }
+    },
+    "0_000_1830bea597-40cf-44be-b814-e6408bff0e2f.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 6,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "roads_damage",
+                "correct": false,
+                "iou": 0.22409779507443264,
+                "psLIME_n": 1,
+                "LIME_n": 10
+            }
+        }
+    },
+    "1_000_05_020.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.31091806610850314,
+                "psLIME_n": 4,
+                "LIME_n": 7
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 5
+            },
+            "2": {
+                "label": "roads_damage",
+                "correct": false,
+                "iou": 0.12306545551021439,
+                "psLIME_n": 6,
+                "LIME_n": 8
+            }
+        }
+    },
+    "0_000_00_127.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.14816168790474202,
+                "psLIME_n": 8,
+                "LIME_n": 7
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 5,
+                "LIME_n": 8
+            },
+            "2": {
+                "label": "trees_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 1
+            }
+        }
+    },
+    "DSC_0283_221ef4db-1b57-42a8-9117-b8bab526e816.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.03339467723669309,
+                "psLIME_n": 4,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 3,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            }
+        }
+    },
     "0_000_2282fe41c2-ec85-482f-8d7c-c68da8997103.jpg": {
         "top_labels": {
             "0": {
@@ -221,6 +371,156 @@
                 "iou": 0.0,
                 "psLIME_n": 5,
                 "LIME_n": 1
+            }
+        }
+    },
+    "0_000_06_149.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.39493677646776065,
+                "psLIME_n": 8,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.05090148421157486,
+                "psLIME_n": 2,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.20291706846673097,
+                "psLIME_n": 8,
+                "LIME_n": 10
+            }
+        }
+    },
+    "DSC_0315_b44c5644-64e4-4aeb-9893-2930c02da391.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 7
+            },
+            "1": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 6
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 5,
+                "LIME_n": 5
+            }
+        }
+    },
+    "0_000_090fa51ef6-0542-4763-80ac-ec9d73bd0fba.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 1,
+                "LIME_n": 2
+            },
+            "1": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.1775055816144692,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 7
+            }
+        }
+    },
+    "Hur Ida 6168cc1c-9c10-4cd5-9fe9-73336da8d629.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.41203271961844873,
+                "psLIME_n": 7,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.03856454894285494,
+                "psLIME_n": 5,
+                "LIME_n": 9
+            },
+            "2": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 7
+            }
+        }
+    },
+    "DSC_6704_2034eb80-33a6-4d56-9427-7300bb7ba68b.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "trees_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 0
+            },
+            "1": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 4
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 4,
+                "LIME_n": 9
+            }
+        }
+    },
+    "010_0565_0a85c40e-5625-4fa8-972f-faf06457606a.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 8
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 5,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "roads_damage",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 6,
+                "LIME_n": 9
             }
         }
     },
@@ -449,6 +749,81 @@
             }
         }
     },
+    "A0034162_50b7c53c-cad0-4da6-be0b-09a33c042ed0.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.10639145340483946,
+                "psLIME_n": 3,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 5
+            }
+        }
+    },
+    "1_000_00_151.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 3,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 4,
+                "LIME_n": 9
+            }
+        }
+    },
+    "0_000_01e12c69f9-42e3-42a6-92ae-eba9c8dce9ef.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.21129951166576236,
+                "psLIME_n": 8,
+                "LIME_n": 9
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.2116504239969624,
+                "psLIME_n": 7,
+                "LIME_n": 10
+            }
+        }
+    },
     "0_000_058ca4326c-a497-4309-8653-7975c05e30f8.jpg": {
         "top_labels": {
             "0": {
@@ -524,6 +899,156 @@
             }
         }
     },
+    "1_000_06_064.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "roads_damage",
+                "correct": false,
+                "iou": 0.3367054949505622,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 8,
+                "LIME_n": 0
+            }
+        }
+    },
+    "A0018-77_709bce2c-12f3-477e-a4c8-8eec78dd15e3.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 9
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            }
+        }
+    },
+    "_DSC02349abc49b3-89b3-422c-bb11-da3cb63f79ab.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 6
+            },
+            "1": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 9,
+                "LIME_n": 4
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 6
+            }
+        }
+    },
+    "DSC_0275_0201cdda-07a3-472e-9e22-edbd2e7bca11.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.17756750774679061,
+                "psLIME_n": 5,
+                "LIME_n": 5
+            },
+            "1": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 1,
+                "LIME_n": 5
+            },
+            "2": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 9,
+                "LIME_n": 4
+            }
+        }
+    },
+    "CAP010Li_5382ff08-1c21-4ed4-a00a-f2cc41ba8c7c.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.05420844448532794,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 6
+            },
+            "2": {
+                "label": "buildings_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 5,
+                "LIME_n": 5
+            }
+        }
+    },
+    "010_8723_6f2b3306-9cab-427e-b6de-7ca3a65805a1.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.44279440302318457,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 4
+            }
+        }
+    },
     "0_000_160ff7a8d1-55c3-4486-a448-daec7f00e1b4.jpg": {
         "top_labels": {
             "0": {
@@ -596,6 +1121,81 @@
                 "iou": 0.0,
                 "psLIME_n": 2,
                 "LIME_n": 10
+            }
+        }
+    },
+    "DSC_0363_88bb962c-3a49-496d-bdd8-dc1ecae07ba2.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.20296233412269335,
+                "psLIME_n": 6,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 6
+            },
+            "2": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.12275676974843774,
+                "psLIME_n": 1,
+                "LIME_n": 8
+            }
+        }
+    },
+    "0_000_01_294.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "roads_any",
+                "correct": false,
+                "iou": 0.12517920929215368,
+                "psLIME_n": 1,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 0
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.07220216606498195,
+                "psLIME_n": 3,
+                "LIME_n": 9
+            }
+        }
+    },
+    "1_000_07ddfecce0-f9c8-46d7-a22b-5777c6bcd292.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.24047393892195584,
+                "psLIME_n": 3,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 1,
+                "LIME_n": 9
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 8
             }
         }
     },
@@ -746,6 +1346,156 @@
                 "iou": 0.0,
                 "psLIME_n": 1,
                 "LIME_n": 10
+            }
+        }
+    },
+    "0_000_10e680da6f-1893-4575-96fe-4ed4077c6287.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.11190741804987436,
+                "psLIME_n": 6,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 2,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "trees_damage",
+                "correct": true,
+                "iou": 0.21152092987920687,
+                "psLIME_n": 5,
+                "LIME_n": 10
+            }
+        }
+    },
+    "DSC_1237_74d51b75-b700-4fbb-af4e-a8217d97a522.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 1,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 9
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 10
+            }
+        }
+    },
+    "DSC_0250_af8a2932-1db4-423c-bb1c-f470d81148d4.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 7
+            },
+            "1": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 0,
+                "LIME_n": 9
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.15051406378441487,
+                "psLIME_n": 7,
+                "LIME_n": 9
+            }
+        }
+    },
+    "1_000_18_002.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.12405972830358146,
+                "psLIME_n": 6,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.15330188679245282,
+                "psLIME_n": 3,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "roads_any",
+                "correct": true,
+                "iou": 0.18599937162374452,
+                "psLIME_n": 9,
+                "LIME_n": 10
+            }
+        }
+    },
+    "0_000_11b036105f-66b4-474e-ad85-a91c2011e48b.jpg": {
+        "top_labels": {
+            "0": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.12058792228830896,
+                "psLIME_n": 2,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "trees_damage",
+                "correct": true,
+                "iou": 0.03826565726083964,
+                "psLIME_n": 2,
+                "LIME_n": 10
+            },
+            "2": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.381396062388136,
+                "psLIME_n": 7,
+                "LIME_n": 9
+            }
+        }
+    },
+    "DSC_0328.JPG": {
+        "top_labels": {
+            "0": {
+                "label": "flooding_any",
+                "correct": false,
+                "iou": 0.2430010631296512,
+                "psLIME_n": 6,
+                "LIME_n": 10
+            },
+            "1": {
+                "label": "bridges_any",
+                "correct": false,
+                "iou": 0.0,
+                "psLIME_n": 1,
+                "LIME_n": 8
+            },
+            "2": {
+                "label": "buildings_any",
+                "correct": true,
+                "iou": 0.5439429375967233,
+                "psLIME_n": 9,
+                "LIME_n": 9
             }
         }
     }
